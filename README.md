@@ -23,3 +23,12 @@ How to run
 2. `cd plant-dashboard && npm install && npm start`
 3. Flash `Smart_Irrigation_Arduino.ino` onto Arduino(after you assemble it (remember to change Wi‑Fi creds and Ip adress).
 
+---
+
+Thinkercad Schematic Diagram
+
+**May not be fully accurate**
+https://www.tinkercad.com/things/9poOz1cvKAS/editel?sharecode=cBrvKOzpuPRdC5k4n_M6bxLICbYzSBBgdmA_HBajMa4
+
+
+
