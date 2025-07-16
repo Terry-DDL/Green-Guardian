@@ -1,11 +1,11 @@
-#Green Guardian – Smart & Connected Irrigation System
+# Green Guardian – Smart & Connected Irrigation System
 
 Monitor plant health (soil moisture, temp, humidity, light), log data in the cloud, and water automatically using **Smart Mode** (weather‑aware) or **Periodic Mode** (every X hours).  
 Designed by a high‑school student(which is me) learning full‑stack + hardware
 
 ---
 
-##Features
+## Features
 
 - Real-time dashboard (React + Chart.js) with graphs(Moisture, pH, Light) showing the living environment of the plant.
 - Watering Modes:
@@ -18,7 +18,7 @@ Designed by a high‑school student(which is me) learning full‑stack + hardwar
 
 ---
 
-##How to run
+## How to run
 
 1. `cd plant-monitor-backend && npm install && node index.js`
 2. `cd plant-dashboard && npm install && npm start`
@@ -26,7 +26,7 @@ Designed by a high‑school student(which is me) learning full‑stack + hardwar
 
 ---
 
-##Thinkercad Schematic Diagram
+## Thinkercad Schematic Diagram
 
 https://www.tinkercad.com/things/9poOz1cvKAS/editel?sharecode=cBrvKOzpuPRdC5k4n_M6bxLICbYzSBBgdmA_HBajMa4
 
